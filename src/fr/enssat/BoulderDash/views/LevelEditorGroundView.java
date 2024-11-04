@@ -1,9 +1,9 @@
-package fr.enssat.BoulderDash.views;
+package fr.enssat.boulderdash.views;
 
-import fr.enssat.BoulderDash.views.GroundView;
-import fr.enssat.BoulderDash.views.LevelEditorView;
-import fr.enssat.BoulderDash.controllers.LevelEditorKeyController;
-import fr.enssat.BoulderDash.models.LevelModel;
+import fr.enssat.boulderdash.controllers.LevelEditorKeyController;
+import fr.enssat.boulderdash.models.LevelModel;
+import fr.enssat.boulderdash.views.GroundView;
+import fr.enssat.boulderdash.views.LevelEditorView;
 
 
 /**

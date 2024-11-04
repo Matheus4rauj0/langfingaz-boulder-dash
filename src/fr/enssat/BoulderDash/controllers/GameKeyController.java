@@ -1,13 +1,13 @@
-package fr.enssat.BoulderDash.controllers;
-
-import fr.enssat.BoulderDash.models.DisplayableElementModel;
-import fr.enssat.BoulderDash.models.LevelModel;
-import fr.enssat.BoulderDash.controllers.RockfordUpdateController;
-import fr.enssat.BoulderDash.controllers.BoulderAndDiamondController;
-import fr.enssat.BoulderDash.helpers.AudioLoadHelper;
+package fr.enssat.boulderdash.controllers;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+
+import fr.enssat.boulderdash.controllers.BoulderAndDiamondController;
+import fr.enssat.boulderdash.controllers.RockfordUpdateController;
+import fr.enssat.boulderdash.helpers.AudioLoadHelper;
+import fr.enssat.boulderdash.models.DisplayableElementModel;
+import fr.enssat.boulderdash.models.LevelModel;
 
 
 /**

@@ -1,11 +1,11 @@
-package fr.enssat.BoulderDash.helpers;
-
-import fr.enssat.BoulderDash.views.MenuLevelSelector;
-import fr.enssat.BoulderDash.views.LevelEditorView;
+package fr.enssat.boulderdash.helpers;
 
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;
+
+import fr.enssat.boulderdash.views.LevelEditorView;
+import fr.enssat.boulderdash.views.MenuLevelSelector;
 
 
 /**

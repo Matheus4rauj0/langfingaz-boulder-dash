@@ -1,4 +1,4 @@
-package fr.enssat.BoulderDash.helpers;
+package fr.enssat.boulderdash.helpers;
 
 
 import java.io.File;

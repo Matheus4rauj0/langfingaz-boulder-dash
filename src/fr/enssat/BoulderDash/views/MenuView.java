@@ -1,13 +1,13 @@
-package fr.enssat.BoulderDash.views;
+package fr.enssat.boulderdash.views;
 
 import java.awt.BorderLayout;
 
 import javax.swing.*;
 
-import fr.enssat.BoulderDash.helpers.LevelSelectorHelper;
-import fr.enssat.BoulderDash.views.MenuImage;
-import fr.enssat.BoulderDash.views.MenuLevelSelector;
-import fr.enssat.BoulderDash.controllers.NavigationBetweenViewController;
+import fr.enssat.boulderdash.controllers.NavigationBetweenViewController;
+import fr.enssat.boulderdash.helpers.LevelSelectorHelper;
+import fr.enssat.boulderdash.views.MenuImage;
+import fr.enssat.boulderdash.views.MenuLevelSelector;
 
 
 /**

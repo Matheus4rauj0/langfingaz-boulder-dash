@@ -1,13 +1,13 @@
-package fr.enssat.BoulderDash.controllers;
+package fr.enssat.boulderdash.controllers;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import fr.enssat.BoulderDash.helpers.AudioLoadHelper;
-import fr.enssat.BoulderDash.models.LevelModel;
-import fr.enssat.BoulderDash.views.MenuView;
-import fr.enssat.BoulderDash.controllers.LevelEditorController;
-import fr.enssat.BoulderDash.controllers.GameController;
+import fr.enssat.boulderdash.controllers.GameController;
+import fr.enssat.boulderdash.controllers.LevelEditorController;
+import fr.enssat.boulderdash.helpers.AudioLoadHelper;
+import fr.enssat.boulderdash.models.LevelModel;
+import fr.enssat.boulderdash.views.MenuView;
 
 /**
  * Controller to navigate between the different views

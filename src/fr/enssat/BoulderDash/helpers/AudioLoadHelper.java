@@ -1,10 +1,10 @@
-package fr.enssat.BoulderDash.helpers;
-
-import fr.enssat.BoulderDash.bridges.SoundJLayerBridge;
+package fr.enssat.boulderdash.helpers;
 
 import java.io.File;
 import java.io.FilenameFilter;
 import java.util.HashMap;
+
+import fr.enssat.boulderdash.bridges.SoundJLayerBridge;
 
 /**
  * AudioLoadHelper

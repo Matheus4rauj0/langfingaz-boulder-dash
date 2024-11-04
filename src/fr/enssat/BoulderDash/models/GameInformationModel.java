@@ -1,4 +1,4 @@
-package fr.enssat.BoulderDash.models;
+package fr.enssat.boulderdash.models;
 
 import java.util.Observable;
 

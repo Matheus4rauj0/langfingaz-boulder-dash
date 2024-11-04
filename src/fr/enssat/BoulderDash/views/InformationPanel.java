@@ -1,4 +1,4 @@
-package fr.enssat.BoulderDash.views;
+package fr.enssat.boulderdash.views;
 
 import java.util.Observable;
 import java.util.Observer;
@@ -6,7 +6,7 @@ import java.util.Observer;
 import javax.swing.JPanel;
 import javax.swing.JTextArea;
 
-import fr.enssat.BoulderDash.models.LevelModel;
+import fr.enssat.boulderdash.models.LevelModel;
 
 
 /**

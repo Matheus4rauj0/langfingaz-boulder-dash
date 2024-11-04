@@ -1,11 +1,12 @@
-package fr.enssat.BoulderDash.views;
-
-import fr.enssat.BoulderDash.views.GroundView;
-import fr.enssat.BoulderDash.controllers.GameController;
-import fr.enssat.BoulderDash.controllers.GameKeyController;
-import fr.enssat.BoulderDash.models.LevelModel;
+package fr.enssat.boulderdash.views;
 
 import javax.swing.*;
+
+import fr.enssat.boulderdash.controllers.GameController;
+import fr.enssat.boulderdash.controllers.GameKeyController;
+import fr.enssat.boulderdash.models.LevelModel;
+import fr.enssat.boulderdash.views.GroundView;
+
 import java.awt.*;
 
 

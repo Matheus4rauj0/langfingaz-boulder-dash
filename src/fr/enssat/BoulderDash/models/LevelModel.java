@@ -1,23 +1,23 @@
-package fr.enssat.BoulderDash.models;
-
-import fr.enssat.BoulderDash.exceptions.LevelConstraintNotRespectedException;
-import fr.enssat.BoulderDash.exceptions.UnknownModelException;
-import fr.enssat.BoulderDash.helpers.LevelLoadHelper;
-import fr.enssat.BoulderDash.helpers.AudioLoadHelper;
-import fr.enssat.BoulderDash.helpers.ModelConvertHelper;
-import fr.enssat.BoulderDash.models.DisplayableElementModel;
-import fr.enssat.BoulderDash.models.RockfordModel;
-import fr.enssat.BoulderDash.models.GameInformationModel;
-import fr.enssat.BoulderDash.models.SteelWallModel;
-import fr.enssat.BoulderDash.models.EmptyModel;
-import fr.enssat.BoulderDash.models.DiamondModel;
-import fr.enssat.BoulderDash.models.DoorModel;
-import fr.enssat.BoulderDash.models.DirtModel;
-import fr.enssat.BoulderDash.models.ExpandingWallModel;
-import fr.enssat.BoulderDash.models.CursorModel;
+package fr.enssat.boulderdash.models;
 
 import java.awt.image.BufferedImage;
 import java.util.Observable;
+
+import fr.enssat.boulderdash.exceptions.LevelConstraintNotRespectedException;
+import fr.enssat.boulderdash.exceptions.UnknownModelException;
+import fr.enssat.boulderdash.helpers.AudioLoadHelper;
+import fr.enssat.boulderdash.helpers.LevelLoadHelper;
+import fr.enssat.boulderdash.helpers.ModelConvertHelper;
+import fr.enssat.boulderdash.models.CursorModel;
+import fr.enssat.boulderdash.models.DiamondModel;
+import fr.enssat.boulderdash.models.DirtModel;
+import fr.enssat.boulderdash.models.DisplayableElementModel;
+import fr.enssat.boulderdash.models.DoorModel;
+import fr.enssat.boulderdash.models.EmptyModel;
+import fr.enssat.boulderdash.models.ExpandingWallModel;
+import fr.enssat.boulderdash.models.GameInformationModel;
+import fr.enssat.boulderdash.models.RockfordModel;
+import fr.enssat.boulderdash.models.SteelWallModel;
 
 
 /**

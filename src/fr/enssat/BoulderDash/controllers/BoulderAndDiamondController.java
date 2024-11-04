@@ -1,9 +1,9 @@
-package fr.enssat.BoulderDash.controllers;
+package fr.enssat.boulderdash.controllers;
 
-import fr.enssat.BoulderDash.models.LevelModel;
-import fr.enssat.BoulderDash.models.DirtModel;
-import fr.enssat.BoulderDash.models.DisplayableElementModel;
-import fr.enssat.BoulderDash.helpers.AudioLoadHelper;
+import fr.enssat.boulderdash.helpers.AudioLoadHelper;
+import fr.enssat.boulderdash.models.DirtModel;
+import fr.enssat.boulderdash.models.DisplayableElementModel;
+import fr.enssat.boulderdash.models.LevelModel;
 
 /**
  * ElementPositionUpdateHelper

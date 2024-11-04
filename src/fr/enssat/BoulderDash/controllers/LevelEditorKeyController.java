@@ -1,10 +1,10 @@
-package fr.enssat.BoulderDash.controllers;
-
-import fr.enssat.BoulderDash.models.LevelModel;
-import fr.enssat.BoulderDash.views.LevelEditorView;
+package fr.enssat.boulderdash.controllers;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
+
+import fr.enssat.boulderdash.models.LevelModel;
+import fr.enssat.boulderdash.views.LevelEditorView;
 
 
 /**

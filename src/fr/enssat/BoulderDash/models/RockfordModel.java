@@ -1,9 +1,9 @@
-package fr.enssat.BoulderDash.models;
+package fr.enssat.boulderdash.models;
 
 import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 
-import fr.enssat.BoulderDash.models.DisplayableElementModel;
+import fr.enssat.boulderdash.models.DisplayableElementModel;
 
 
 /**

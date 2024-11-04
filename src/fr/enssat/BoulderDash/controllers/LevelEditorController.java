@@ -1,17 +1,17 @@
-package fr.enssat.BoulderDash.controllers;
+package fr.enssat.boulderdash.controllers;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import fr.enssat.BoulderDash.exceptions.LevelConstraintNotRespectedException;
-import fr.enssat.BoulderDash.helpers.LevelRemoveHelper;
-import fr.enssat.BoulderDash.helpers.LevelSaveHelper;
-import fr.enssat.BoulderDash.models.LevelModel;
-import fr.enssat.BoulderDash.views.HelpView;
-import fr.enssat.BoulderDash.views.LevelEditorView;
-import fr.enssat.BoulderDash.controllers.NavigationBetweenViewController;
-
 import javax.swing.*;
+
+import fr.enssat.boulderdash.controllers.NavigationBetweenViewController;
+import fr.enssat.boulderdash.exceptions.LevelConstraintNotRespectedException;
+import fr.enssat.boulderdash.helpers.LevelRemoveHelper;
+import fr.enssat.boulderdash.helpers.LevelSaveHelper;
+import fr.enssat.boulderdash.models.LevelModel;
+import fr.enssat.boulderdash.views.HelpView;
+import fr.enssat.boulderdash.views.LevelEditorView;
 
 /**
  * LevelEditorController

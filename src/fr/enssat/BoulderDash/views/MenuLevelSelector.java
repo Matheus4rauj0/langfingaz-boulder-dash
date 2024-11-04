@@ -1,9 +1,10 @@
-package fr.enssat.BoulderDash.views;
+package fr.enssat.boulderdash.views;
 
 import javax.swing.*;
-import java.awt.event.ActionEvent;
 
-import fr.enssat.BoulderDash.views.LevelEditorView;
+import fr.enssat.boulderdash.views.LevelEditorView;
+
+import java.awt.event.ActionEvent;
 
 
 /**

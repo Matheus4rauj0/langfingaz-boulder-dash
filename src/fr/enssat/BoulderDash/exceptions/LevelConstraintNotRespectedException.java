@@ -1,4 +1,4 @@
-package fr.enssat.BoulderDash.exceptions;
+package fr.enssat.boulderdash.exceptions;
 
 
 /**

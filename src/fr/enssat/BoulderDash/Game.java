@@ -1,8 +1,8 @@
-package fr.enssat.BoulderDash;
-
-import fr.enssat.BoulderDash.controllers.NavigationBetweenViewController;
+package fr.enssat.boulderdash;
 
 import javax.swing.*;
+
+import fr.enssat.boulderdash.controllers.NavigationBetweenViewController;
 
 
 /**

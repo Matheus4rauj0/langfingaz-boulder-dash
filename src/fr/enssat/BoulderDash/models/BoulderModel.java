@@ -1,6 +1,6 @@
-package fr.enssat.BoulderDash.models;
+package fr.enssat.boulderdash.models;
 
-import fr.enssat.BoulderDash.models.DisplayableElementModel;
+import fr.enssat.boulderdash.models.DisplayableElementModel;
 
 
 /**

@@ -1,8 +1,8 @@
-package fr.enssat.BoulderDash.views;
-
-import fr.enssat.BoulderDash.models.LevelModel;
+package fr.enssat.boulderdash.views;
 
 import javax.swing.*;
+
+import fr.enssat.boulderdash.models.LevelModel;
 
 import java.awt.*;
 import java.util.Observable;

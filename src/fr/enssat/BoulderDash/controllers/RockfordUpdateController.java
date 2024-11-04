@@ -1,6 +1,6 @@
-package fr.enssat.BoulderDash.controllers;
+package fr.enssat.boulderdash.controllers;
 
-import fr.enssat.BoulderDash.models.LevelModel;
+import fr.enssat.boulderdash.models.LevelModel;
 
 /**
  * ElementPositionUpdateHelper

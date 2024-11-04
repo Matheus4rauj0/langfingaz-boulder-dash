@@ -1,23 +1,22 @@
-package fr.enssat.BoulderDash.helpers;
-
-import fr.enssat.BoulderDash.exceptions.UnknownModelException;
-
-import fr.enssat.BoulderDash.helpers.ModelConvertHelper;
-import fr.enssat.BoulderDash.models.ExpandingWallModel;
-import fr.enssat.BoulderDash.models.RockfordModel;
-import fr.enssat.BoulderDash.models.DisplayableElementModel;
-import fr.enssat.BoulderDash.models.EmptyModel;
-import fr.enssat.BoulderDash.models.BrickWallModel;
-import fr.enssat.BoulderDash.models.BoulderModel;
-import fr.enssat.BoulderDash.models.DiamondModel;
-import fr.enssat.BoulderDash.models.DirtModel;
-import fr.enssat.BoulderDash.models.MagicWallModel;
-import fr.enssat.BoulderDash.models.SteelWallModel;
+package fr.enssat.boulderdash.helpers;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+
+import fr.enssat.boulderdash.exceptions.UnknownModelException;
+import fr.enssat.boulderdash.helpers.ModelConvertHelper;
+import fr.enssat.boulderdash.models.BoulderModel;
+import fr.enssat.boulderdash.models.BrickWallModel;
+import fr.enssat.boulderdash.models.DiamondModel;
+import fr.enssat.boulderdash.models.DirtModel;
+import fr.enssat.boulderdash.models.DisplayableElementModel;
+import fr.enssat.boulderdash.models.EmptyModel;
+import fr.enssat.boulderdash.models.ExpandingWallModel;
+import fr.enssat.boulderdash.models.MagicWallModel;
+import fr.enssat.boulderdash.models.RockfordModel;
+import fr.enssat.boulderdash.models.SteelWallModel;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;

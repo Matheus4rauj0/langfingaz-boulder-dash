@@ -1,4 +1,4 @@
-package fr.enssat.BoulderDash.views;
+package fr.enssat.boulderdash.views;
 
 import java.awt.BorderLayout;
 

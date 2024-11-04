@@ -1,4 +1,4 @@
-package fr.enssat.BoulderDash.bridges;
+package fr.enssat.boulderdash.bridges;
 
 import java.net.URL;
 

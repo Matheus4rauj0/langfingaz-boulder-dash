@@ -1,4 +1,4 @@
-package fr.enssat.BoulderDash.helpers;
+package fr.enssat.boulderdash.helpers;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,12 +13,13 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 
 import com.sun.org.apache.xml.internal.serialize.XMLSerializer;
+
+import fr.enssat.boulderdash.models.DirtModel;
+import fr.enssat.boulderdash.models.DisplayableElementModel;
+
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.Node;
-
-import fr.enssat.BoulderDash.models.DisplayableElementModel;
-import fr.enssat.BoulderDash.models.DirtModel;
 
 
 /**
